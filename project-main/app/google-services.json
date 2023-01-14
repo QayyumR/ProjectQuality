@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434850285571",
+    "project_id": "book-club-fa0d0",
+    "storage_bucket": "book-club-fa0d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434850285571:android:8c6dd17456463389ce6636",
+        "android_client_info": {
+          "package_name": "com.example.bookclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434850285571-ssq3j2nn8rumonv277ta86n7qkh87u7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_APPLnOzclTUTDs9TACRnUgHqZZpgDH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434850285571-ssq3j2nn8rumonv277ta86n7qkh87u7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
